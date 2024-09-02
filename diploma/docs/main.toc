@@ -1,0 +1,54 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{РЕФЕРАТ}{5}{table.caption.1}%
+\contentsline {section}{ОПРЕДЕЛЕНИЯ, ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}{8}{table.caption.1}%
+\contentsline {section}{ВВЕДЕНИЕ}{9}{Item.3}%
+\contentsline {section}{\numberline {1}Аналитический раздел}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Задача оценки безопасности водителя}{10}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Задача классификации изображений}{10}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Введение в сверточные нейронные сети}{11}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Нейрон}{11}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Многослойный персептрон}{11}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}Архитектура сверточных нейронных сетей}{12}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Сверточный слой}{13}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Слой пулинга}{15}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Полносвязный слой}{16}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Функция потерь}{17}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Технологии классификации изображений}{17}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}AlexNet}{17}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}VGGNet}{19}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}GoogleNet}{21}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}ResNet}{23}{subsubsection.1.5.4}%
+\contentsline {subsubsection}{\numberline {1.5.5}Cравнение рассмотренных методов}{25}{subsubsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.6}Формализация постановки задачи}{25}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Конструкторский раздел}{28}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Требования к разрабатываемому методу}{28}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Требования к разрабатываемому программному комплексу}{28}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Особенности метода оценки}{29}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Модель нейронной сети}{29}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Общее описание метода оценки}{29}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Предварительная обработка данных}{30}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Алгоритм вычисления оценки безопасности}{31}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}Структура разрабатываемого программного обеспечения}{32}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Описание модулей программного комплекса}{32}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Архитектура программного обеспечения}{33}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Данные для обучения модели}{34}{subsubsection.2.4.3}%
+\contentsline {section}{\numberline {3}Технологический раздел}{36}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Средства реализации программного комплекса}{36}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Реализация программного комплекса}{36}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Модуль пользовательского интерфейса}{36}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Модуль GoogleNet модели}{37}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Обучение модели}{38}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Результаты обучения модели}{39}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Примеры использования разработанного программного \\комплекса}{41}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Исследовательский раздел}{46}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Предмет исследования}{46}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Сравнение времени работы реализованного метода на разных объемах входных данных}{46}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Сравнение точности модели нейронной сети на изображениях разного размера}{47}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Результаты исследования}{49}{subsection.4.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{50}{subsection.4.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{51}{subsection.4.4}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А}{53}{subsection.4.4}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б}{63}{listing.caption.41}%
+\contentsline {section}{ПРИЛОЖЕНИЕ В}{72}{listing.caption.50}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Г}{77}{listing.caption.55}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Д}{78}{listing.caption.56}%

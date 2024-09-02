@@ -1,0 +1,18 @@
+python main.py -d ./data/train
+
+2024-04-27 01:39:16.372411: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2024-04-27 01:39:16.375235: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 2693670000 Hz
+Epoch 1/200
+
+Epoch 00001: LearningRateScheduler reducing learning rate to 0.01.
+2024-04-27 01:39:19.291402: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2024-04-27 01:39:19.771270: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublasLt.so.11
+2024-04-27 01:39:22.171898: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+
+180/180 [==============================] - 59s 269ms/step - loss: 3.7943 - output_loss: 2.3949 - auxilliary_output_1_loss: 2.3347 - auxilliary_output_2_loss: 2.3298 - output_accuracy: 0.1004 - auxilliary_output_1_accuracy: 0.1069 - auxilliary_output_2_accuracy: 0.1022 - val_loss: 3.6899 - val_output_loss: 2.3087 - val_auxilliary_output_1_loss: 2.3020 - val_auxilliary_output_2_loss: 2.3021 - val_output_accuracy: 0.1017 - val_auxilliary_output_1_accuracy: 0.1015 - val_auxilliary_output_2_accuracy: 0.1015
+Epoch 2/200
+
+...
+
+Epoch 00200: LearningRateScheduler reducing learning rate to 0.0036039671685801802.
+180/180 [==============================] - 21s 118ms/step - loss: 3.0684e-04 - output_loss: 1.6573e-06 - auxilliary_output_1_loss: 9.4422e-04 - auxilliary_output_2_loss: 7.3059e-05 - output_accuracy: 1.0000 - auxilliary_output_1_accuracy: 0.9998 - auxilliary_output_2_accuracy: 1.0000 - val_loss: 0.3523 - val_output_loss: 0.2355 - val_auxilliary_output_1_loss: 0.1905 - val_auxilliary_output_2_loss: 0.1988 - val_output_accuracy: 0.9833 - val_auxilliary_output_1_accuracy: 0.9802 - val_auxilliary_output_2_accuracy: 0.9857

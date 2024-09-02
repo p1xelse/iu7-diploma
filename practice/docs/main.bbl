@@ -1,0 +1,147 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{wciom}
+\selectlanguageifdefined{russian}
+ВЦИОМ: Такси в России [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://wciom.ru/analytical-reviews/analiticheskii-obzor/taksi-v-rossii-mnenie-polzovatelei}
+  (дата обращения 15.10.2023).{}
+
+\bibitem{dtp}
+\selectlanguageifdefined{russian}
+Аналитический центр при правительстве РФ
+  [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://ac.gov.ru/archive/files/content/19540/taksi-avariinost-final-2311-pdf.pdf}
+  (дата обращения 15.10.2023).{}
+
+\bibitem{cnn-mlp}
+\selectlanguageifdefined{russian}
+Learning and transferring mid-level image representations using convolutional
+  neural networks~/ Maxime~Oquab, Leon~Bottou, Ivan~Laptev {[и~др.]}~//
+  Proceedings of the IEEE conference on computer vision and pattern
+  recognition.
+\newblock 2014.
+\newblock {С.}~1717--1724.{}
+
+\bibitem{conv-layer}
+\selectlanguageifdefined{russian}
+LeCun~Yann, Bengio~Yoshua, Hinton~Geoffrey. Deep learning~// nature.
+\newblock 2015.
+\newblock Т. 521, {№}~7553.
+\newblock {С.}~436--444.{}
+
+\bibitem{relu}
+\selectlanguageifdefined{russian}
+Bai~Yuhan. RELU-function and derived function review~// SHS Web of
+  Conferences~/ EDP Sciences.
+\newblock Т.~144.
+\newblock 2022.
+\newblock {С.}~02006.{}
+
+\bibitem{pooling-layer-1}
+\selectlanguageifdefined{russian}
+Recent advances in convolutional neural networks~/ Jiuxiang~Gu, Zhenhua~Wang,
+  Jason~Kuen {[и~др.]}~// Pattern recognition.
+\newblock 2018.
+\newblock Т.~77.
+\newblock {С.}~354--377.{}
+
+\bibitem{pooling-layer-2}
+\selectlanguageifdefined{russian}
+Review of image classification algorithms based on convolutional neural
+  networks~/ Leiyu~Chen, Shaobo~Li, Qiang~Bai {[и~др.]}~// Remote Sensing.
+\newblock 2021.
+\newblock Т.~13, {№}~22.
+\newblock {С.}~4712.{}
+
+\bibitem{pooling-layer-3}
+\selectlanguageifdefined{russian}
+A survey of deep neural network architectures and their applications~/
+  Weibo~Liu, Zidong~Wang, Xiaohui~Liu {[и~др.]}~// Neurocomputing.
+\newblock 2017.
+\newblock Т. 234.
+\newblock {С.}~11--26.{}
+
+\bibitem{pooling-layer-4}
+\selectlanguageifdefined{russian}
+Boureau~Y-Lan, Ponce~Jean, LeCun~Yann. A theoretical analysis of feature
+  pooling in visual recognition~// Proceedings of the 27th international
+  conference on machine learning (ICML-10).
+\newblock 2010.
+\newblock {С.}~111--118.{}
+
+\bibitem{models-comprasion}
+\selectlanguageifdefined{russian}
+A comparative study of different CNN models and transfer learning effect for
+  underwater object classification in side-scan sonar images~/ Xing~Du,
+  Yongfu~Sun, Yupeng~Song {[и~др.]}~// Remote Sensing.
+\newblock 2023.
+\newblock Т.~15, {№}~3.
+\newblock {С.}~593.{}
+
+\bibitem{googlenet}
+\selectlanguageifdefined{russian}
+Going deeper with convolutions~/ Christian~Szegedy, Wei~Liu, Yangqing~Jia
+  {[и~др.]}~// Proceedings of the IEEE conference on computer vision and
+  pattern recognition.
+\newblock 2015.
+\newblock {С.}~1--9.{}
+
+\bibitem{gradient_problem}
+\selectlanguageifdefined{russian}
+Philipp~George, Song~Dawn, Carbonell~Jaime~G. The exploding gradient problem
+  demystified-definition, prevalence, impact, origin, tradeoffs, and
+  solutions~// arXiv preprint arXiv:1712.05577.
+\newblock 2017.{}
+
+\bibitem{state-farm-distracted-driver-detection}
+\selectlanguageifdefined{russian}
+State Farm Distracted Driver Detection [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://kaggle.com/competitions/state-farm-distracted-driver-detection}
+  (дата обращения 01.04.2024).{}
+
+\bibitem{python}
+\selectlanguageifdefined{russian}
+Python [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.python.org/} (дата
+  обращения 01.04.2024).{}
+
+\bibitem{tensorflow}
+\selectlanguageifdefined{russian}
+Tensorflow [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.tensorflow.org/}
+  (дата обращения 01.04.2024).{}
+
+\bibitem{tensorflow_pytorch}
+\selectlanguageifdefined{russian}
+Performance analysis of deep learning libraries: TensorFlow and PyTorch~/
+  Felipe~Florencio, Thiago~Valen, Edward~David~Moreno {[и~др.]}~// Journal
+  of Computer Science.
+\newblock 2019.
+\newblock Т.~15, {№}~6.
+\newblock {С.}~785--799.{}
+
+\bibitem{dgx}
+\selectlanguageifdefined{russian}
+Tensorflow [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.nvidia.com/ru-ru/data-center/dgx-systems/} (дата
+  обращения 01.04.2024).{}
+
+\bibitem{apple}
+\selectlanguageifdefined{russian}
+Apple M1 Pro [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://apple.fandom.com/wiki/Apple_M1_Pro} (дата обращения
+  01.04.2024).{}
+
+\end{thebibliography}

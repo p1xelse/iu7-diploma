@@ -1,0 +1,23 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{4}{Doc-Start}%
+\contentsline {section}{\numberline {1}Программная реализация метода безопасности водителя}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Средства реализации программного комплекса}{5}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Выбор языка программирования}{5}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Выбор библиотеки для работы с нейронной сетью}{5}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Реализация программного комплекса}{5}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Модуль пользовательского интерфейса}{5}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Модуль GoogleNet модели}{7}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Обучение модели}{7}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Результаты обучения модели}{9}{subsubsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}Примеры использования разработанного программного комплекса}{11}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Исследование характеристик разработанного программного обеспечения}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Предмет исследования}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Сравнение времени работы реализованного метода на разных объемах входных данных}{17}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Сравнение точности модели нейронной сети на изображениях разного размера}{19}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Результаты исследования}{20}{subsection.2.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{21}{subsection.2.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{22}{subsection.2.4}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А}{25}{subsection.2.4}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б}{32}{lstnumber.2.94}%
+\contentsline {section}{ПРИЛОЖЕНИЕ В}{38}{lstnumber.2.81}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Г}{42}{lstnumber.1.135}%

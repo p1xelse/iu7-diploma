@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{5}{table.caption.1}%
+\contentsline {section}{\numberline {1}Задача классификации}{6}{section.1}%
+\contentsline {section}{\numberline {2}Обзор методов классификации}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Методы на основе глубокого обучения}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Методы основанные на экземплярах}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Методы на основе деревьев принятия решений}{12}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Сравнение методов классификации}{16}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Формулировка критериев сравнения методов классификации}{16}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Сравнительный анализ методов классификации}{16}{subsection.3.2}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{19}{table.caption.3}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{20}{table.caption.3}%
